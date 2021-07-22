@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Chitranjan Sharma.
 - 👀 I’m interested in Android Application Development, Java, Python,Css,Html etc.
 - 🌱 I’m currently learning Java and Android Studio.
-- 📫 You can reach throw me E-mail: kumarchitranjan069@gmail.com or Whatsapp: +917827303590
+- 📫 You can reach throw me E-mail: kumarchitranjan069@gmail.com or Whatsapp: +917532824850
