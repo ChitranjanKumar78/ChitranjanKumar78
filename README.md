@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Chitranjan Sharma And I am pursuing BCA degree course from IPEM college.
-- 👀 I’m interested in Android Application Development, Java, Kotlin, C, C++, Pythonetc.
+- 👀 I’m interested in Android Application Development, Java, Kotlin, C, C++, Python etc.
 - 🌱 I’m currently learning Android Studio with Java & Kotlin, And I create projects also.
 - 📫 You can reach me throw E-mail: kumarchitranjan069@gmail.com or Whatsapp: +917827303590
